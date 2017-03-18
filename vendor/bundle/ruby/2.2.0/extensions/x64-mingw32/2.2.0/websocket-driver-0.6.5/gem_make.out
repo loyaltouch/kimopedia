@@ -1,0 +1,16 @@
+current directory: D:/Documents/Projects/Kimopedia/vendor/bundle/ruby/2.2.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+c:/Programs/usbrumix2/ruby/2.2/x64-mingw32/bin/ruby.exe -r ./siteconf20170318-7712-1fhiv5x.rb extconf.rb
+creating Makefile
+
+current directory: D:/Documents/Projects/Kimopedia/vendor/bundle/ruby/2.2.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: D:/Documents/Projects/Kimopedia/vendor/bundle/ruby/2.2.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+generating websocket_mask-x64-mingw32.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: D:/Documents/Projects/Kimopedia/vendor/bundle/ruby/2.2.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170318-7712-kud4ge
